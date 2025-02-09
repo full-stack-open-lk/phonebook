@@ -9,6 +9,6 @@ This is a simple Phonebook application built with React, Node.js, and MongoDB. T
 - Update contact information
 - Search for contacts by name
 
-[Live Demo](https://phonebook.netlify.app/)
+[Live Demo](https://phonebooklk.netlify.app/)
 
 ![Screenshot](/doc/screenshot.png)
